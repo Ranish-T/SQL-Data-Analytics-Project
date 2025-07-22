@@ -31,22 +31,22 @@ All queries are written using **best SQL practices**, optimized for clarity, reu
 ---
 
 ## 🗂️ Folder Structure
-
 sql-data-analytics-project/
 │
-├── scripts/
-│ ├── 01_database_discovery.sql
-│ ├── 02_measures_metrics.sql
-│ ├── 03_time_trend_analysis.sql
-│ ├── 04_segmentation_analysis.sql
-│ └── 05_cumulative_analytics.sql
+├── scripts/                          # All SQL scripts
+│   ├── 01_database_discovery.sql
+│   ├── 02_measures_metrics.sql
+│   ├── 03_time_trend_analysis.sql
+│   ├── 04_segmentation_analysis.sql
+│   └── 05_cumulative_analytics.sql
 │
-├── assets/
-│ └── analytics_diagrams.png
+├── assets/                           # Supporting images or diagrams
+│   └── analytics_diagrams.png
 │
-├── LICENSE
 ├── .gitignore
+├── LICENSE
 └── README.md
+
 
 ---
 
