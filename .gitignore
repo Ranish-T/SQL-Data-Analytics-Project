@@ -1,0 +1,18 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup or logs
+*.log
+*.tmp
+*.bak
+
+# Ignore environment files (if added later)
+.env
+.env.*
